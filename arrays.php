@@ -1,5 +1,8 @@
 <?php
 
+/*
+	This class holds PHP functions for use with arrays
+*/
 class Arrays {
 
 	/**

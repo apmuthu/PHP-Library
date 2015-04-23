@@ -1,5 +1,8 @@
 <?php
 
+/*
+	This class holds any non-specific functioons which can be widely used with any project
+*/
 class Extra {
 
 	/**
